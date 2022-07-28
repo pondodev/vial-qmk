@@ -1,0 +1,11 @@
+LTO_ENABLE			= yes
+CONSOLE_ENABLE 		= no
+GRAVE_ESC_ENABLE	= no
+MAGIC_ENABLE		= no
+MUSIC_ENABLE		= no
+
+MOUSEKEY_ENABLE		= no
+VIA_ENABLE			= yes
+VIAL_ENABLE			= yes
+VIAL_INSECURE		= yes # TODO: change this to no!
+SPACE_CADET_ENABLE	= no
